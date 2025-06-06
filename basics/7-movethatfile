@@ -1,2 +1,2 @@
-#!/bain/bash
+#!/bin/bash
 mv /tmp/betty /tmp/my_firts_directory
